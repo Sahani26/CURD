@@ -1,0 +1,18 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "title": "title",
+            "price": 100,
+            "name": "suresh",
+            "email": "don@gmail.com"
+        },
+        {
+            "id": "2",
+            "title": "title",
+            "price": 100,
+            "name": "suresh",
+            "email": "don@gmail.com"
+        }
+    ]
+}
